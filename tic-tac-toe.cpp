@@ -170,7 +170,7 @@ void play()
         system("cls");
         cout<<endl<<"   Game Number "<<g<<endl<<endl;
         namayesh();
-        cout<<endl<<endl<<"          *****            *****";
+        cout<<endl<<endl<<"          *****      Draw      *****";
     }
 
 }
